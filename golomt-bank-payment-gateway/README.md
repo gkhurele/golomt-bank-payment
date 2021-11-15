@@ -33,7 +33,7 @@
 
 ## Тохиргоо
 
-- Зурагт зааснаар Woocommerce -> Settings -> Payments замаар орж plugin - аа идэвхжүүлнэ.
+- Woocommerce -> Settings -> Payments замаар орж plugin - аа идэвхжүүлнэ.
 - Голомт банктай гэрээ байгуулж Мерчант KEY, Мерчант TOKEN авна.
 
 ## Installation
