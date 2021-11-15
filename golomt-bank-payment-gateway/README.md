@@ -37,6 +37,6 @@
 - Голомт банктай гэрээ байгуулж Мерчант KEY, Мерчант TOKEN авна.
 
 ## Installation
-- Дараах линк дээрх зааврын дагуу татаж суулгана.[WordPress plugin installation procedure](http://codex.wordpress.org/Managing_Plugins).
+- Дараах линк дээрх зааврын дагуу татаж суулгана.[WordPress plugin installation procedure]( https://wordpress.org/support/article/managing-plugins).
 
 
