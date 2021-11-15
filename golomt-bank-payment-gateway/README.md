@@ -1,14 +1,14 @@
 # Golomt Bank WooCommerce Payment Gateway
-Contributors: Khurelbaatar
-Author: Khurelbaatar, 93302662
-Author URI: https://www.facebook.com/Khurelbaatar.Gb, ghurele@gmail.com
-Tags: ecommerce, woocommerce, payment gateway
-Tested up to: 5.8.1
-Requires at least: 3.0.0
-Stable tag: 1.0.0
-WC tested up to: 5.8.0
-License: free
-License URI: free
+- Contributors: Khurelbaatar
+- Author: Khurelbaatar, 93302662
+- Author URI: https://www.facebook.com/Khurelbaatar.Gb, ghurele@gmail.com
+- Tags: ecommerce, woocommerce, payment gateway
+- Tested up to: 5.8.1
+- Requires at least: 3.0.0
+- Stable tag: 1.0.0
+- WC tested up to: 5.8.0
+- License: free
+- License URI: free
 
 ## Танилцуулга
    - Энэхүү Plugin ийг ашигласнаар хэрэглэгч таны Woocommerce сайт дээр Голомт банкны карт болон SocialPay апп аар төлбөр төлөх боломжтой.
