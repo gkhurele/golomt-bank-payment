@@ -5,7 +5,7 @@ Plugin URI:
 Description: Golomt Bank Payment Gateway allows you to accept payment through credit cards, Social Pay on your Woocommerce Powered Site.
 Version: 1.0.0
 Author: Khurelbaatar
-Author URI: 
+Author URI: gkhurele@gmail.com, khurelbaatar_gan@golomtbank.com, facebook.com\Khurelbaatar.gb
 WC tested up to: 5.8.1
 Text Domain: woocommerce-golomtbank-payment-gateway
 Domain Path: /languages
