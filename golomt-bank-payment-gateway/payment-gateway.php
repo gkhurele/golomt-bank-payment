@@ -17,7 +17,7 @@ if (!defined('ABSPATH')) {
     exit;
 }
 
-require_once plugin_dir_path(__FILE__) . '\transaction.php';
+require_once plugin_dir_path(__FILE__) . 'transaction.php';
 add_action('plugins_loaded', 'woocommerce_golomtbank_init', 0);
 
 function woocommerce_golomtbank_init()
